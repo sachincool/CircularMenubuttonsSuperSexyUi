@@ -8,7 +8,7 @@
 ************************
 
 I'm not going to explain the usage .
-read the ~~fucking code !!
+read the ~fucking~ code !!
 
 
 Original Author:-
